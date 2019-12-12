@@ -1,2 +1,2 @@
 # NYC Payroll Data
- Data Analysis on NYC Payroll Data Written in Python 
+ Data analysis on NYC payroll data written in Python 
